@@ -1,0 +1,5 @@
+discord.py==1.5.1
+PyNaCl==1.4.0
+pytz==2020.4
+google-cloud-texttospeech==2.2.0
+google-auth==1.23.0
